@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
-#include "lists.h"
+#include "list.h"
 
 /**
  * print_list - It checks the code for Holberton School students.
